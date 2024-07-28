@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @NgeluhAirdrop
-- 👀 I’m interested in quest task Swisstronik Testnet 
-- 💞️ I’m looking to collaborate on Swisstronik testnet2.0
+- 👋 Hi, I’m @NgeluhLovers
+- 👀 I’m 🌟  Crypto Enthusiast
+              -Testnet Hunter
+              -Web3 tester
+              -Blockchain tester 
+- 💞️ I Support the Development of Blockchain technology 
 
 <!---
 NgeluhAirdrop/NgeluhAirdrop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
