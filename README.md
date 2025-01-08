@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NgeluhLovers
 - 👀 I’m 🌟  Crypto Enthusiast
-              -Testnet Hunter
-              -Web3 tester
-              -Blockchain tester 
+              -Project Contributor ⛓
+              -Testnet Hunter ⛓
+              -Web3 tester ⛓
+              -Blockchain tester  ⛓
 - 💞️ I Support the Development of Blockchain technology 
 
 <!---
